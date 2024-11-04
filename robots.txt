@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://asaleama.github.io/IFA/sitemap_index.txt
+Sitemap: https://asaleama.github.io/TEh/sitemap_index.txt
+Sitemap: https://asaleama.github.io/WpD/sitemap_index.txt
+Sitemap: https://asaleama.github.io/oRS/sitemap_index.txt
